@@ -29,30 +29,30 @@ A modern, responsive landing page for Ace Studios built with Next.js, TypeScript
 
 ### Setup
 
-# 1. Clone the repository:
+#### 1. Clone the repository:
 
 \`\`\`bash
 git clone https://github.com/yourusername/ace-studios-landing.git
 cd ace-studios-landing
 \`\`\`
 
-# 2. Install dependencies:
+#### 2. Install dependencies:
 
 \`\`\`bash
 npm install
-or
+##### or
 yarn install
 \`\`\`
 
-# 3. Run the development server:
+#### 3. Run the development server:
 
 \`\`\`bash
 npm run dev
-or
+##### or
 yarn dev
 \`\`\`
 
-# 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Project Structure
 
